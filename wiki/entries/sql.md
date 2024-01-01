@@ -1,0 +1,16 @@
+                                    ##SQL
+
+
+
+
+
+
+
+sql is known as structured query language it is a standard language to work with relational data bases
+
+
+
+        
+
+        
+        
